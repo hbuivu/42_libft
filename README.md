@@ -1,10 +1,10 @@
-## LIBFT
+# LIBFT
 A library consisting of my own implementations of standard C functions, as well as some extra functions
 
-### Purpose
+## Purpose
 To gain a deeper understanding of how standard functions work behind the scenes, and to practice coding in C
 
-### Library Functions
+## Library Functions
 **Standard C Functions:**
 Already existing basic C functions  
 **Additional Functions:**
@@ -37,7 +37,7 @@ atoi
 calloc
 strdup
 
-### Concepts
+## Concepts
 Makefile  
 Memory allocation  
 Data structures  
